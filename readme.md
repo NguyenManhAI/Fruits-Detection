@@ -36,6 +36,4 @@ Dự án bao gồm file `object_detection.py`, chứa toàn bộ mã nguồn đ�
 
 ## Mô Hình Đã Huấn Luyện & Kết Quả Suy Luận
 
-Bạn có thể tìm thấy các mô hình đã huấn luyện (.pth) và các ví dụ về kết quả suy luận tại liên kết Google Drive sau:
-
-[https://drive.google.com/drive/folders/152lWvw\_GWE5t8OPXRmxstlvjOoTQj3nL?usp=sharing](https://drive.com/drive/folders/152lWvw_GWE5t8OPXRmxstlvjOoTQj3nL?usp=sharing)
+Bạn có thể tìm thấy các mô hình đã huấn luyện (.pth) và các ví dụ về kết quả suy luận tại liên kết Google Drive sau: [results](https://drive.google.com/drive/folders/152lWvw_GWE5t8OPXRmxstlvjOoTQj3nL?usp=sharing)
